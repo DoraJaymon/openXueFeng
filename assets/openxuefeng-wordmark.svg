@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="86" viewBox="0 0 470 86" role="img" aria-label="OpenXueFeng">
+  <title>OpenXueFeng</title>
+  <text x="0" y="62"
+        font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="58"
+        font-weight="760"
+        letter-spacing="-0.5">
+    <tspan fill="#263238">Open</tspan><tspan fill="#c7933f">Xue</tspan><tspan fill="#263238">Feng</tspan>
+  </text>
+  <path d="M5 78 H465" stroke="#e7dfd4" stroke-width="2" stroke-linecap="round"/>
+  <path d="M204 78 H302" stroke="#c7933f" stroke-width="3" stroke-linecap="round"/>
+</svg>
